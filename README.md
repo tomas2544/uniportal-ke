@@ -1,4 +1,4 @@
-uniportal-release
+UNIPORTAL HMVC CI
 =================
 
 Web Based HMVC CI University Portal System - KE
